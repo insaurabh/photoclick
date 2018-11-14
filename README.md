@@ -8,3 +8,5 @@ click photo using web api and web camera
 - [X] click picture
 - [X] show clicked picture
 - [ ] Modify clicked picture
+
+	Demo : https://selfie-click.netlify.com/
