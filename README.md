@@ -4,7 +4,9 @@ click photo using web api and web camera
 
 	Learning web api
 
-	[ ] open camera
-	[ ] click picture
-	[ ] show clicked picture
-	 
+- [X] open camera
+- [X] click picture
+- [X] show clicked picture
+- [ ] Modify clicked picture
+
+	Demo : https://selfie-click.netlify.com/
